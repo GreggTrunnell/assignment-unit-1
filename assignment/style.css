@@ -16,10 +16,10 @@ p {
 }
 /* Put a border around your image */
 .gammon{
-  border: brown 10px solid; width: 20%;
+  border: brown 10px solid; width: 35%;
 }
 .tennis{ 
-    border: rgb(174, 233, 87) 10px solid; width: 31%
+    border: rgb(174, 233, 87) 10px solid; width: 31%; 
 }
 .vinyl{
    border: black 10px solid; width: 27%;
